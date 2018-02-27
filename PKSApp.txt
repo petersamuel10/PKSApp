@@ -1,0 +1,6 @@
+this app is used firebase authentication
+sign in with email and username and password
+ 
+and use NPM function that's help to generate 
+Node.js file that's use to push notification
+from one device to another
