@@ -10,3 +10,12 @@ from one device to another
 npm and Node.js to make as aserver between the device and the firebase server 
 that is used instead of php server
 To enadble user send notification between each other .
+# Tools
+Firebase Authentication, <br/>
+Firebase Storage, <br/>
+Firebase Database Realtime and cloud firestore ,  <br/>
+Glide,<br/>
+RecyclerView.<br/>
+Fragment,<br/>
+View Pager,<br/>
+Firebase Notification.
